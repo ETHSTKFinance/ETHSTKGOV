@@ -1,2 +1,2 @@
-# YFBETGOV
-YFBET Governance Contract Source Code
+# ETHSTKGOV
+ETHSTK Governance Contract Source Code
